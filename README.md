@@ -5,9 +5,9 @@ O sistema cria automaticamente o arquivo sistema_notas.db e já fica pronto para
 
 🚀 Funcionalidades
 
-Cadastro de alunos e disciplinas
-Registro e atualização de notas
-Cálculo automático de média e situação (Aprovado/Reprovado)
+Cadastro de alunos e disciplinas,
+Registro e atualização de notas,
+Cálculo automático de média e situação (Aprovado/Reprovado),
 Consultas completas:
 Situação individual
 Situação geral
